@@ -1,3 +1,6 @@
 [submodule "The Freedom Deer"]
 	path = The Freedom Deer
 	url = https://github.com/lqwdev/ai339-project
+[submodule "Game-of-Drones"]
+	path = Game-of-Drones
+	url = https://github.com/justinhchae/Game-of-Drones
