@@ -4,3 +4,6 @@
 [submodule "Game-of-Drones"]
 	path = Game-of-Drones
 	url = https://github.com/justinhchae/Game-of-Drones
+[submodule "Data-Pirates"]
+	path = Data-Pirates
+	url = https://github.com/kavyajaganathan/Data-Pirates
