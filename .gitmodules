@@ -16,3 +16,6 @@
 [submodule "The-Exalted-Spartans"]
 	path = The-Exalted-Spartans
 	url = https://github.com/dmavrofridis/The-Exalted-Spartans
+[submodule "The-Dapper-Squirrels"]
+	path = The-Dapper-Squirrels
+	url = https://github.com/NU-DSS-The-Dapper-Squirrels/The-Dapper-Squirrels
