@@ -13,3 +13,6 @@
 [submodule "The-Royal-Zombies"]
 	path = The-Royal-Zombies
 	url = https://github.com/shivangi19961/The-Royal-Zombies
+[submodule "The-Exalted-Spartans"]
+	path = The-Exalted-Spartans
+	url = https://github.com/dmavrofridis/The-Exalted-Spartans
