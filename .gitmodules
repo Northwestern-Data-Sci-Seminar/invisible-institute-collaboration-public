@@ -7,3 +7,6 @@
 [submodule "Data-Pirates"]
 	path = Data-Pirates
 	url = https://github.com/kavyajaganathan/Data-Pirates
+[submodule "TheHappyMammoths"]
+	path = TheHappyMammoths
+	url = https://github.com/AneryPatel/TheHappyMammoths
