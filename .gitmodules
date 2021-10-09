@@ -25,3 +25,6 @@
 [submodule "The-Earnest-Pirates"]
 	path = The-Earnest-Pirates
 	url = https://github.com/tejulp/The-Earnest-Pirates
+[submodule "The-Brave-Dingos"]
+	path = The-Brave-Dingos
+	url = https://github.com/dhruvnarayan23/The-Brave-Dingos
