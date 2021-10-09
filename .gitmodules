@@ -22,3 +22,6 @@
 [submodule "The-Glorious-Boomers"]
 	path = The-Glorious-Boomers
 	url = https://github.com/devyanigaurinu/The-Glorious-Boomers
+[submodule "The-Earnest-Pirates"]
+	path = The-Earnest-Pirates
+	url = https://github.com/tejulp/The-Earnest-Pirates
