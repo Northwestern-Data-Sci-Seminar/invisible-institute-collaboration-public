@@ -19,3 +19,6 @@
 [submodule "The-Dapper-Squirrels"]
 	path = The-Dapper-Squirrels
 	url = https://github.com/NU-DSS-The-Dapper-Squirrels/The-Dapper-Squirrels
+[submodule "The-Glorious-Boomers"]
+	path = The-Glorious-Boomers
+	url = https://github.com/devyanigaurinu/The-Glorious-Boomers
