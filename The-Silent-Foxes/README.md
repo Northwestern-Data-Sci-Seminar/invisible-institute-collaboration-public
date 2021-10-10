@@ -1,2 +1,0 @@
-# The Silent Foxes
-## Theme
