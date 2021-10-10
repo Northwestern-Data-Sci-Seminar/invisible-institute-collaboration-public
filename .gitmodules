@@ -28,3 +28,6 @@
 [submodule "The-Brave-Dingos"]
 	path = The-Brave-Dingos
 	url = https://github.com/dhruvnarayan23/The-Brave-Dingos
+[submodule "The-Freedom-Donkeys"]
+	path = The-Freedom-Donkeys
+	url = https://github.com/jacobkwat/The-Freedom-Donkeys.git
