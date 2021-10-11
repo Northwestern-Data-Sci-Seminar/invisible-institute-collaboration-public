@@ -31,3 +31,9 @@
 [submodule "The-Freedom-Donkeys"]
 	path = The-Freedom-Donkeys
 	url = https://github.com/jacobkwat/The-Freedom-Donkeys.git
+[submodule "The-Silent-Foxes"]
+	path = The-Silent-Foxes
+	url = https://github.com/Aa1024xx/The-Silent-Foxes
+[submodule "The-Flying-Koalas"]
+	path = The-Flying-Koalas
+	url = https://github.com/madison-mcclellan/The-Flying-Koalas
