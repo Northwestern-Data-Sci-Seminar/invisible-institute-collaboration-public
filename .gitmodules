@@ -37,3 +37,6 @@
 [submodule "The-Flying-Koalas"]
 	path = The-Flying-Koalas
 	url = https://github.com/madison-mcclellan/The-Flying-Koalas
+[submodule "The-Magic-Squids"]
+	path = The-Magic-Squids
+	url = https://github.com/jjjacksonoh/The-Magic-Squids.git
