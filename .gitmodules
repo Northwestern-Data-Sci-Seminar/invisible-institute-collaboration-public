@@ -46,3 +46,6 @@
 [submodule "The-Majestic-Barracudas"]
 	path = The-Majestic-Barracudas
 	url = https://github.com/NicholasKao/The-Majestic-Barracudas
+[submodule "The-Regal-Swans"]
+	path = The-Regal-Swans
+	url = https://github.com/RuijieYu/The-Regal-Swans
