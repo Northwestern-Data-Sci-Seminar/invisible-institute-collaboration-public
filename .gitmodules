@@ -52,3 +52,6 @@
 [submodule "The-Brave-Ducks"]
 	path = The-Brave-Ducks
 	url = https://github.com/Peiyj/The-Brave-Ducks
+[submodule "The Quick Turkeys"]
+	path = The Quick Turkeys
+	url = https://github.com/haorenzhi/The-Quick-Turkeys
