@@ -49,3 +49,6 @@
 [submodule "The-Regal-Swans"]
 	path = The-Regal-Swans
 	url = https://github.com/RuijieYu/The-Regal-Swans
+[submodule "The-Brave-Ducks"]
+	path = The-Brave-Ducks
+	url = https://github.com/Peiyj/The-Brave-Ducks
