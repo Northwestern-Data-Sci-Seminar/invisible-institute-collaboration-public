@@ -55,3 +55,6 @@
 [submodule "The Quick Turkeys"]
 	path = The Quick Turkeys
 	url = https://github.com/haorenzhi/The-Quick-Turkeys
+[submodule "The-Determined-Eagles"]
+	path = The-Determined-Eagles
+	url = https://github.com/trickortea/The-Determined-Eagles.git
