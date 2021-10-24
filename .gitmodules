@@ -52,3 +52,6 @@
 [submodule "TheHappyMammoths"]
 	path = TheHappyMammoths
 	url = https://github.com/AneryPatel/TheHappyMammoths
+[submodule "The-Quick-Turkeys"]
+	path = The-Quick-Turkeys
+	url = https://github.com/haorenzhi/The-Quick-Turkeys
