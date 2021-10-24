@@ -55,3 +55,6 @@
 [submodule "Data-Pirates"]
 	path = Data-Pirates
 	url = https://github.com/kavyajaganathan/Data-Pirates
+[submodule "The-Hungry-Hornets"]
+	path = The-Hungry-Hornets
+	url = https://github.com/baljash-cheema/The-Hungry-Hornets
