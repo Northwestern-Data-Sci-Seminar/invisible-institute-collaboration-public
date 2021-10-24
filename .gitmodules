@@ -55,3 +55,6 @@
 [submodule "The-Determined-Eagles"]
 	path = The-Determined-Eagles
 	url = https://github.com/trickortea/The-Determined-Eagles.git
+[submodule "Data-Pirates"]
+	path = Data-Pirates
+	url = https://github.com/kavyajaganathan/Data-Pirates
