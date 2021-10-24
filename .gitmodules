@@ -52,3 +52,6 @@
 [submodule "The-Hungry-Hornets"]
 	path = The-Hungry-Hornets
 	url = https://github.com/baljash-cheema/The-Hungry-Hornets
+[submodule "Game-of-Drones"]
+	path = Game-of-Drones
+	url = https://github.com/azizakhonn/Game-of-Drones
