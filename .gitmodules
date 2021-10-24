@@ -37,9 +37,6 @@
 [submodule "The-Magic-Squids"]
 	path = The-Magic-Squids
 	url = https://github.com/jjjacksonoh/The-Magic-Squids.git
-[submodule "The-Hungry-Hornets"]
-	path = The-Hungry-Hornets
-	url = https://github.com/baljash-cheema/The-Hungry-Hornets
 [submodule "The-Majestic-Barracudas"]
 	path = The-Majestic-Barracudas
 	url = https://github.com/NicholasKao/The-Majestic-Barracudas
