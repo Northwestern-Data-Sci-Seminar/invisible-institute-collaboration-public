@@ -1,4 +1,0 @@
-# The-Silent-Foxes
-
-## Theme
-## 
