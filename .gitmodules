@@ -1,6 +1,3 @@
-[submodule "Game-of-Drones"]
-	path = Game-of-Drones
-	url = https://github.com/justinhchae/Game-of-Drones
 [submodule "TheHappyMammoths"]
 	path = TheHappyMammoths
 	url = https://github.com/AneryPatel/TheHappyMammoths
