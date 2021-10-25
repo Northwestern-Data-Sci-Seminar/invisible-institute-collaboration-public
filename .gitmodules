@@ -55,3 +55,6 @@
 [submodule "The-Quick-Turkeys"]
 	path = The-Quick-Turkeys
 	url = https://github.com/haorenzhi/The-Quick-Turkeys
+[submodule "The-Freedom-Deer"]
+	path = The-Freedom-Deer
+	url = https://github.com/lqwdev/ai339-project.git
