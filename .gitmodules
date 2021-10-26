@@ -58,3 +58,6 @@
 [submodule "The-Majestic-Roadrunners"]
 	path = The-Majestic-Roadrunners
 	url = https://github.com/shubham-shahi/The-Majestic-Roadrunners
+[submodule "The-Freedom-Deer"]
+	path = The-Freedom-Deer
+	url = https://github.com/lqwdev/The-Freedom-Deer
