@@ -55,3 +55,6 @@
 [submodule "The-Quick-Turkeys"]
 	path = The-Quick-Turkeys
 	url = https://github.com/haorenzhi/The-Quick-Turkeys
+[submodule "The-Majestic-Roadrunners"]
+	path = The-Majestic-Roadrunners
+	url = https://github.com/shubham-shahi/The-Majestic-Roadrunners
